@@ -29,7 +29,7 @@ I spend my free time on hobby projects. Feel free to check them out on my person
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=damianboh&theme=radical&show_icons=true"/>
 <br><br>
-<img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=damianboh&theme=radical&margin-h=15&margin-w=5&no-bg=true"/>
+<img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=damianboh&theme=radical&title=Star,Follower"/>
     
 
 
