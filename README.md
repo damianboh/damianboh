@@ -2,7 +2,7 @@
 
 <hr>
 
-### Hello, World! 👋 <br><br> I am Damian, a data scientist with a theoretical physics background, with keen interest in AI, ML, Finance and building web/mobile apps. I greatly enjoy working on my own personal programming and data science projects! I am also an ex-physics lecturer who enjoys teaching and <a href="https://medium.com/@bohmian/">writing articles</a> to share my projects with everyone. Let's all learn from one another!
+Hello, World! 👋 <br><br> I am Damian, a data scientist with a theoretical physics background, with keen interest in AI, ML, Finance and building web/mobile apps. I greatly enjoy working on my own personal programming and data science projects! I am also an ex-physics lecturer who enjoys teaching and <a href="https://medium.com/@bohmian/">writing articles</a> to share my projects with everyone. Let's all learn from one another!
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
