@@ -27,5 +27,8 @@ I spend my free time on hobby projects. Feel free to check them out on my person
 </div>
 <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damianboh&show_icons=true" alt="akhilgkrishnan" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=damianboh&show_icons=true"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damianboh&theme=radical&hide_border=false"/>
+
+</p>
 
