@@ -4,7 +4,7 @@
 
 ### Hello, World! 👋 <br><br> I am Damian, a data scientist with a theoretical physics background, with keen interest in AI, ML, Finance and building web/mobile apps. I greatly enjoy working on my own personal programming and data science projects! I am also an ex-physics lecturer who enjoys teaching and <a href="https://medium.com/@bohmian/">writing articles</a> to share my projects with everyone. Let's all learn from one another!
 
-I spend my free time on hobby projects. Feel free to check them out on my personal page here: [damianboh.github.io
+### I spend my free time on hobby projects. Feel free to check them out on my personal page here: [damianboh.github.io
 ](https://damianboh.github.io/).
 
 <hr>
