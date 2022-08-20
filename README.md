@@ -2,7 +2,7 @@
 
 <hr>
 
-Hello, World! 👋 <br><br> I am Damian, a data scientist with a theoretical physics background, with keen interest in AI, ML, Finance and building web/mobile apps. I greatly enjoy working on my own personal programming and data science projects! I am also an ex-physics lecturer who enjoys teaching and <a href="https://medium.com/@bohmian/">writing articles</a> to share my projects with everyone. Let's all learn from one another!
+####Hello, World! 👋 <br><br> I am Damian, a data scientist with a theoretical physics background, with keen interest in AI, ML, Finance and building web/mobile apps. I greatly enjoy working on my own personal programming and data science projects! I am also an ex-physics lecturer who enjoys teaching and <a href="https://medium.com/@bohmian/">writing articles</a> to share my projects with everyone. Let's all learn from one another!
 
 I spend my free time on hobby projects. Feel free to check them out on my personal page here: [damianboh.github.io
 ](https://damianboh.github.io/).
@@ -23,8 +23,8 @@ I spend my free time on hobby projects. Feel free to check them out on my person
         <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="125"
     </a>    
 </div>
+    
 <hr>
-<img align="left" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=damianboh&theme=radical&show_icons=true"/>
 <br><br>
 <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=damianboh&theme=radical&margin-w=5&title=MultiLanguage,Star,Commit,Repository,Follower"/>
