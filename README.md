@@ -10,7 +10,10 @@ I spend my free time on hobby projects. Feel free to check them out on my person
 <hr>
 <h3> How to reach me </h3>
 <div>
-     <a href="https://medium.com/@bohmian" target="_blank">
+    <a href="https://medium.com/@bohmian" target="_blank">
+        <img src="https://img.shields.io/badge/Github Personal Page-222222?style=for-the-badge&logo=github&logoColor=white" height="30">
+    </a>&nbsp
+    <a href="https://medium.com/@bohmian" target="_blank">
         <img src="https://img.shields.io/badge/Medium-222222?style=for-the-badge&logo=medium&logoColor=white" height="30">
     </a>&nbsp
     <a href="https://www.linkedin.com/in/damian-boh/" target="_blank">
