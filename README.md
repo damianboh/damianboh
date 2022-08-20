@@ -22,3 +22,5 @@
 <img src = "https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
 <img src = "https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white" />
 <img src = "https://img.shields.io/badge/micro:bit-00ED00?style=flat-square&logo=micro:bit&logoColor=white" />
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damianboh&show_icons=true" alt="akhilgkrishnan" /></p>
