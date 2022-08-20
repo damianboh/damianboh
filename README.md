@@ -1,8 +1,4 @@
-<img src = "https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src = "https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-<img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img src = "https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" /> 
-<img src = "https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" /> 			
+<img src = "https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><img src = "https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" /><img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /><img src = "https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" /><img src = "https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" /> 			
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
 <img src = "https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white" />
 <img src = "https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
