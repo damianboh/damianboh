@@ -7,7 +7,7 @@ Hello, World! <br><br> I am Damian, a data scientist with a theoretical physics 
 <h3> How to reach me </h3>
 <div>
      <a href="https://medium.com/@bohmian" target="_blank">
-        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="30">
+        <img src="https://img.shields.io/badge/Medium-222222?style=for-the-badge&logo=medium&logoColor=white" height="30">
     </a>&nbsp
     <a href="https://www.linkedin.com/in/damian-boh/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="125px">
