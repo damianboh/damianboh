@@ -11,17 +11,17 @@ I spend my free time on hobby projects. Feel free to check them out on my person
 <h3> How to reach me </h3>
 <div>
     <a href="https://medium.com/@bohmian" target="_blank">
-        <img src="https://img.shields.io/badge/Github Personal Page-222222?style=for-the-badge&logo=github&logoColor=white" height="30">
-    </a>&nbsp
-    <a href="https://medium.com/@bohmian" target="_blank">
         <img src="https://img.shields.io/badge/Medium-222222?style=for-the-badge&logo=medium&logoColor=white" height="30">
-    </a>&nbsp
+    </a>
     <a href="https://www.linkedin.com/in/damian-boh/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="125px">
-    </a>&nbsp
+    </a>
+    <a href="https://medium.com/@bohmian" target="_blank">
+        <img src="https://img.shields.io/badge/Github Personal Page-222222?style=for-the-badge&logo=github&logoColor=white" height="30">
+    </a>    
     <a href="https://www.buymeacoffee.com/bohmian" target="_blank">    
         <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="125"
-    </a>&nbsp    
+    </a>    
 </div>
 <hr>
 
