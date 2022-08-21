@@ -19,7 +19,7 @@ I spend my free time on hobby projects. Feel free to check them out on my person
         <img src="https://img.shields.io/badge/Github Personal Page-222222?style=for-the-badge&logo=github&logoColor=white" height="30">
     </a><br>  
     <a href="https://www.buymeacoffee.com/bohmian" target="_blank">    
-        <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="125"
+        <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="125">
     </a>    
 </div>
     
