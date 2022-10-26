@@ -2,7 +2,11 @@
 
 <hr>
 
-Hello, World! 👋 <br><br> I am Damian, a data scientist with a theoretical physics background, with keen interest and experience in AI, ML, Finance and building web/mobile apps. I greatly enjoy working on my own personal programming and data science projects! I am also an ex-physics lecturer who enjoys teaching and <a href="https://medium.com/@bohmian/">writing articles</a> to share my projects with everyone. Let's all learn from one another!
+Hello, World! 👋 <br><br> I am Damian, a developer and data scientist with a theoretical physics background, 
+with keen interest in building web/mobile apps, machine learning and IoT. 
+I greatly enjoy working on my own personal programming and data science projects!  
+I am also an ex-physics lecturer who enjoys teaching and <a href="https://medium.com/@bohmian/">writing articles</a> to share my projects with everyone. 
+Let's all learn from one another!
 
 I spend my free time on hobby projects. Feel free to check them out on my personal page here: https://damianboh.github.io/.
 
@@ -18,9 +22,6 @@ I spend my free time on hobby projects. Feel free to check them out on my person
     <a href="https://damianboh.github.io" target="_blank">
         <img src="https://img.shields.io/badge/Github Personal Page-222222?style=for-the-badge&logo=github&logoColor=white" height="30">
     </a><br>  
-    <a href="https://www.buymeacoffee.com/bohmian" target="_blank">    
-        <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="125">
-    </a>    
 </div>
     
 <hr>
